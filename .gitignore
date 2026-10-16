@@ -1,0 +1,29 @@
+# Archivos compilados de Java
+*.class
+out/
+build/
+target/
+bin/
+
+# Entornos de desarrollo
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Gradle
+.gradle/
+
+# Registros
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Bases de datos locales generadas
+*.db
+*.sqlite
+*.sqlite3
